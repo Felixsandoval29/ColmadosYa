@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "url": "https://github.com/Felixsandoval29/ColmadosYa/raw/main/app/release/app-release.apk",
-  "releaseNotes": "Nueva pantalla de Moto Express y mejoras de estabilidad."
+  "releaseNotes": "Mejoras en el sistema de pedidos del Marketplace, corrección de GPS y optimización de seguridad ProGuard."
 }
