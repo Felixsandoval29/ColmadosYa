@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "url": "https://github.com/Felixsandoval29/ColmadosYa/releases/download/v1.0.0/ColmadosYa.v.1.1.apk",
-  "releaseNotes": "¡Actualización disponible! Mejoras en la interfaz y mayor velocidad."
+  "versionCode": 5,
+  "versionName": "1.4",
+  "url": "https://github.com/Felixsandoval29/ColmadosYa/raw/main/app/release/app-release.apk",
+  "releaseNotes": "Nueva pantalla de Moto Express y mejoras de estabilidad."
 }
