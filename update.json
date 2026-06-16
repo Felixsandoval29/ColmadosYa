@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "url": "https://github.com/Felixsandoval29/ColmadosYa/releases/latest/download/ColmadosYa.v.1.1.apk",
-  "releaseNotes": "- Mejoras en la gestion de pagos y comprobantes.\n- Calificacion independiente para Negocio y Repartidor.\n- Nuevo sistema de Sugerencias y Quejas.\n- Visor de imagenes con zoom para pagos.\n- Correcciones de estabilidad en notificaciones.",
+  "releaseNotes": "- Verificación de actualizaciones en tiempo real (cada 90 segundos).\n- Nuevo botón 'Verificar nueva actualización' en todos los perfiles.\n- Mejoras de estabilidad en la descarga e instalación automática.\n- Optimización de sincronización de datos en segundo plano.",
   "forceUpdate": false
 }
