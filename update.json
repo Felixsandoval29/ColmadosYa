@@ -2,6 +2,6 @@
   "versionCode": 7,
   "versionName": "1.6",
   "url": "https://github.com/Felixsandoval29/ColmadosYa/releases/latest/download/app-release.apk",
-  "releaseNotes": "● Gestión de pagos mejorada: Ahora puedes subir comprobantes de transferencia y ver el motivo si un pago es rechazado.\n● Sistema de calificación dual: Califique al negocio y al repartidor de forma independiente.\n● Sugerencias y Quejas: Envía mensajes directos a la administración desde la app.\n● Visor de imágenes: Nuevo zoom en comprobantes de pago.\n● Mejoras en la interfaz de pedidos y notificaciones.",
+  "releaseNotes": "- Mejoras en la gestion de pagos y comprobantes.\n- Calificacion independiente para Negocio y Repartidor.\n- Nuevo sistema de Sugerencias y Quejas.\n- Visor de imagenes con zoom para pagos.\n- Correcciones de estabilidad en notificaciones.",
   "forceUpdate": false
 }
