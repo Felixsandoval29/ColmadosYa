@@ -1,6 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "url": "https://github.com/Felixsandoval29/ColmadosYa/raw/main/app/release/app-release.apk",
-  "releaseNotes": "Mejoras en el sistema de pedidos del Marketplace, corrección de GPS y optimización de seguridad ProGuard."
+  "versionCode": 7,
+  "versionName": "1.6",
+  "url": "https://github.com/Felixsandoval29/ColmadosYa/releases/latest/download/app-release.apk",
+  "releaseNotes": "● Gestión de pagos mejorada: Ahora puedes subir comprobantes de transferencia y ver el motivo si un pago es rechazado.\n● Sistema de calificación dual: Califique al negocio y al repartidor de forma independiente.\n● Sugerencias y Quejas: Envía mensajes directos a la administración desde la app.\n● Visor de imágenes: Nuevo zoom en comprobantes de pago.\n● Mejoras en la interfaz de pedidos y notificaciones.",
+  "forceUpdate": false
 }
