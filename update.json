@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "url": "https://github.com/Felixsandoval29/ColmadosYa/releases/latest/download/ColmadosYa.v.1.1.apk",
-  "releaseNotes": "- Verificación de actualizaciones en tiempo real (cada 90 segundos).\n- Nuevo botón 'Verificar nueva actualización' en todos los perfiles.\n- Mejoras de estabilidad en la descarga e instalación automática.\n- Optimización de sincronización de datos en segundo plano.",
-  "forceUpdate": false
+  "versionCode": 9,
+  "versionName": "1.8",
+  "url": "https://github.com/Felixsandoval29/ColmadosYa/releases/latest/download/ColmadosYa.v.1.8.apk",
+  "releaseNotes": "- Actualización a la versión 1.8.\n- Mejoras generales de estabilidad.\n- Optimizaciones en la búsqueda por distancia.",
+  "ActualizaciónForza": false
 }
