@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "url": "https://github.com/Felixsandoval29/ColmadosYa/releases/latest/download/ColmadosYa.v.1.1.apk",
-  "releaseNotes": "- Actualización a la versión 1.8.\n- Mejoras generales de estabilidad.\n- Optimizaciones en la búsqueda por distancia.",
+  "versionCode": 10,
+  "versionName": "1.9",
+  "url": "https://github.com/Felixsandoval29/ColmadosYa/releases/latest/download/app-release.apk",
+  "releaseNotes": "- Actualización a la versión 1.9.\n- Nuevo flujo de pedidos para negocios (Estado PREPARANDO).\n- Botón dinámico 'Buscar Delivery' para comercios.\n- Filtro de búsqueda por distancia optimizado a 1.5km.\n- Mejoras de seguridad en la gestión de pedidos para repartidores.",
   "ActualizaciónForza": false
 }
